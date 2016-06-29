@@ -1,0 +1,578 @@
+{
+  "RESPONSE": {
+    "RESULT": [
+      {
+        "TrainAnnouncement": [
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6d63aa60e307",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-11T16:21:00",
+            "AdvertisedTrainIdent": "20176",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Hd",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-11T00:00:00",
+            "TechnicalTrainIdent": "20176",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "1",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Fabp",
+                "Priority": 1,
+                "Order": 0
+              },
+              {
+                "LocationName": "Vb",
+                "Priority": 2,
+                "Order": 1
+              },
+              {
+                "LocationName": "Kb",
+                "Priority": 3,
+                "Order": 2
+              },
+              {
+                "LocationName": "Mdn",
+                "Priority": 4,
+                "Order": 3
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-11T14:22:20.851Z",
+            "TimeAtLocation": "2016-05-11T16:21:00"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6d63aa615853",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-11T16:37:00",
+            "AdvertisedTrainIdent": "20176",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Fabp",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-11T00:00:00",
+            "TechnicalTrainIdent": "20176",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "4",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Vb",
+                "Priority": 1,
+                "Order": 0
+              },
+              {
+                "LocationName": "Åsa",
+                "Priority": 4,
+                "Order": 1
+              },
+              {
+                "LocationName": "Kb",
+                "Priority": 2,
+                "Order": 2
+              },
+              {
+                "LocationName": "Mdn",
+                "Priority": 3,
+                "Order": 3
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-11T14:42:45.582Z",
+            "TimeAtLocation": "2016-05-11T16:42:00"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6d63aa610a22",
+            "ActivityType": "Ankomst",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-11T16:37:00",
+            "AdvertisedTrainIdent": "20176",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Fabp",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-11T00:00:00",
+            "TechnicalTrainIdent": "20176",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "4",
+            "TypeOfTraffic": "Tåg",
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-11T14:42:25.785Z",
+            "TimeAtLocation": "2016-05-11T16:40:00"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6d63aa617f7a",
+            "ActivityType": "Ankomst",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-11T16:52:00",
+            "AdvertisedTrainIdent": "20176",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Vb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-11T00:00:00",
+            "TechnicalTrainIdent": "20176",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "4",
+            "TypeOfTraffic": "Tåg",
+            "ViaFromLocation": [
+              {
+                "LocationName": "Fabp",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-11T14:55:24.348Z",
+            "TimeAtLocation": "2016-05-11T16:55:00"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6d63aa61cd9b",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-11T16:52:00",
+            "AdvertisedTrainIdent": "20176",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Vb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-11T00:00:00",
+            "TechnicalTrainIdent": "20176",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "4",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Åsa",
+                "Priority": 3,
+                "Order": 0
+              },
+              {
+                "LocationName": "Kb",
+                "Priority": 1,
+                "Order": 1
+              },
+              {
+                "LocationName": "Mdn",
+                "Priority": 2,
+                "Order": 2
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-10T23:09:02.219Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6d63aa63f106",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-11T17:05:00",
+            "AdvertisedTrainIdent": "20176",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Åsa",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-11T00:00:00",
+            "TechnicalTrainIdent": "20176",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "2",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Kb",
+                "Priority": 1,
+                "Order": 0
+              },
+              {
+                "LocationName": "Mdn",
+                "Priority": 2,
+                "Order": 1
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-10T23:09:02.438Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6d63aa621bd1",
+            "ActivityType": "Ankomst",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-11T17:05:00",
+            "AdvertisedTrainIdent": "20176",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Åsa",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-11T00:00:00",
+            "TechnicalTrainIdent": "20176",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "2",
+            "TypeOfTraffic": "Tåg",
+            "ViaFromLocation": [
+              {
+                "LocationName": "Fabp",
+                "Priority": 1,
+                "Order": 0
+              },
+              {
+                "LocationName": "Vb",
+                "Priority": 2,
+                "Order": 1
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-10T23:09:02.313Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6d63aa646656",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-11T17:15:00",
+            "AdvertisedTrainIdent": "20176",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Kb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-11T00:00:00",
+            "TechnicalTrainIdent": "20176",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "3",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Mdn",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-10T23:09:02.266Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6d63aa643f3b",
+            "ActivityType": "Ankomst",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-11T17:15:00",
+            "AdvertisedTrainIdent": "20176",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Kb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-11T00:00:00",
+            "TechnicalTrainIdent": "20176",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "3",
+            "TypeOfTraffic": "Tåg",
+            "ViaFromLocation": [
+              {
+                "LocationName": "Fabp",
+                "Priority": 1,
+                "Order": 0
+              },
+              {
+                "LocationName": "Vb",
+                "Priority": 2,
+                "Order": 1
+              },
+              {
+                "LocationName": "Åsa",
+                "Priority": 3,
+                "Order": 2
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-10T23:09:02.141Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6d63aa64b487",
+            "ActivityType": "Ankomst",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-11T17:26:00",
+            "AdvertisedTrainIdent": "20176",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Mdn",
+            "NewEquipment": 0,
+            "OtherInformation": [
+              "OBS ! Ingen påstigning!"
+            ],
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-11T00:00:00",
+            "TechnicalTrainIdent": "20176",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "3",
+            "TypeOfTraffic": "Tåg",
+            "ViaFromLocation": [
+              {
+                "LocationName": "Fabp",
+                "Priority": 1,
+                "Order": 0
+              },
+              {
+                "LocationName": "Vb",
+                "Priority": 2,
+                "Order": 1
+              },
+              {
+                "LocationName": "Åsa",
+                "Priority": 4,
+                "Order": 2
+              },
+              {
+                "LocationName": "Kb",
+                "Priority": 3,
+                "Order": 3
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-10T23:09:02.438Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6d63aa64dba2",
+            "ActivityType": "Ankomst",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-11T17:35:00",
+            "AdvertisedTrainIdent": "20176",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "G",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-11T00:00:00",
+            "TechnicalTrainIdent": "20176",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "14",
+            "TypeOfTraffic": "Tåg",
+            "ViaFromLocation": [
+              {
+                "LocationName": "Fabp",
+                "Priority": 1,
+                "Order": 0
+              },
+              {
+                "LocationName": "Vb",
+                "Priority": 2,
+                "Order": 1
+              },
+              {
+                "LocationName": "Åsa",
+                "Priority": 4,
+                "Order": 2
+              },
+              {
+                "LocationName": "Kb",
+                "Priority": 3,
+                "Order": 3
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-10T23:09:02.547Z"
+          }
+        ],
+        "INFO": {
+          "LASTMODIFIED": {
+            "@datetime": "2016-05-11T14:55:24.348Z"
+          }
+        }
+      }
+    ]
+  }
+}

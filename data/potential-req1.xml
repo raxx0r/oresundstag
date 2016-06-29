@@ -1,0 +1,8 @@
+<REQUEST>
+	<LOGIN authenticationkey='707695ca4c704c93a80ebf62cf9af7b5'/>
+	<QUERY  lastmodified='true' orderby='StartDateTime' objecttype='TrainMessage'>
+		<FILTER>
+			<IN name='AffectedLocation' value='Hie,Tri,M,Lu,Lkö,Hb,Ä,Bån,Laov,Hd,Fabp,Vb,Kb,Mdn,G'/>
+		</FILTER>
+	</QUERY>
+</REQUEST>

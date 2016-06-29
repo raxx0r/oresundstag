@@ -1,0 +1,12 @@
+<REQUEST>
+	<LOGIN authenticationkey='707695ca4c704c93a80ebf62cf9af7b5'/>
+	<QUERYlastmodified='true' orderby='ScheduledDepartureDateTime,AdvertisedTimeAtLocation' objecttype='TrainAnnouncement'>
+		<FILTER>
+			<AND>
+				<EQ name='Advertised' value='true'/>
+				<EQ name='AdvertisedTrainIdent' value='1062'/>
+				<EQ name='ScheduledDepartureDateTime' value='2016-05-11T00:00:00'/>
+			</AND>
+		</FILTER>
+	</QUERY>
+</REQUEST>

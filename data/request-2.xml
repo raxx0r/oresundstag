@@ -1,0 +1,8 @@
+<REQUEST>
+      <LOGIN authenticationkey="openapiconsolekey" />
+      <QUERY objecttype="TrainAnnouncement">
+            <FILTER>
+                  <EQ name="AdvertisedTrainIdent" value="535" />
+            </FILTER>
+      </QUERY>
+</REQUEST>

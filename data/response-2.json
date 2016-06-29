@@ -1,0 +1,915 @@
+{
+  "RESPONSE": {
+    "RESULT": [
+      {
+        "TrainAnnouncement": [
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6cc0465d6377",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T16:49:00",
+            "AdvertisedTrainIdent": "3066",
+            "Canceled": true,
+            "Deviation": [
+              "Inställt",
+              "Invänta info"
+            ],
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Kb",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Västtrafik",
+            "LocationSignature": "Kb",
+            "MobileWebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Västtågen"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "3066",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "x",
+            "TypeOfTraffic": "Pendeltåg",
+            "WebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "ModifiedTime": "2016-05-10T14:54:00.59Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6cc047f53285",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T17:04:00",
+            "AdvertisedTrainIdent": "3118",
+            "Canceled": true,
+            "Deviation": [
+              "Inställt",
+              "Invänta info",
+              "Fordonsfel"
+            ],
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Kb",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Västtrafik",
+            "LocationSignature": "Kb",
+            "MobileWebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Västtågen"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "3118",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "x",
+            "TypeOfTraffic": "Pendeltåg",
+            "WebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "ModifiedTime": "2016-05-10T14:58:27.261Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6c9a5c2413df",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T17:13:00",
+            "AdvertisedTrainIdent": "1099",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Kb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "Service": [
+              "Servering"
+            ],
+            "TechnicalTrainIdent": "11099",
+            "ToLocation": [
+              {
+                "LocationName": "Dk.kh",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "2",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Vb",
+                "Priority": 4,
+                "Order": 0
+              },
+              {
+                "LocationName": "Hd",
+                "Priority": 3,
+                "Order": 1
+              },
+              {
+                "LocationName": "M",
+                "Priority": 1,
+                "Order": 2
+              },
+              {
+                "LocationName": "Dk.cph",
+                "Priority": 2,
+                "Order": 3
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-09T23:07:49.344Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6c9a88eac02c",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T17:15:00",
+            "AdvertisedTrainIdent": "20176",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Kb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "20176",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "3",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Mdn",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-10T15:00:35.433Z",
+            "EstimatedTimeAtLocation": "2016-05-10T17:20:00"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6cc04675372c",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T17:19:00",
+            "AdvertisedTrainIdent": "3068",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Kb",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Västtrafik",
+            "LocationSignature": "Kb",
+            "MobileWebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Västtågen"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "3068",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "4",
+            "TypeOfTraffic": "Pendeltåg",
+            "WebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "ModifiedTime": "2016-05-09T23:07:53.883Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6cc0480abbb8",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T17:34:00",
+            "AdvertisedTrainIdent": "3120",
+            "Canceled": true,
+            "Deviation": [
+              "Inställt",
+              "Nästa avgång",
+              "Invänta info"
+            ],
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Kb",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Västtrafik",
+            "LocationSignature": "Kb",
+            "MobileWebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Västtågen"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "3120",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "x",
+            "TypeOfTraffic": "Pendeltåg",
+            "WebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "ModifiedTime": "2016-05-10T14:28:34.899Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6c9a88f37b3e",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T17:43:00",
+            "AdvertisedTrainIdent": "20177",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Kb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "20177",
+            "ToLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "2",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Åsa",
+                "Priority": 2,
+                "Order": 0
+              },
+              {
+                "LocationName": "Vb",
+                "Priority": 1,
+                "Order": 1
+              },
+              {
+                "LocationName": "Fabp",
+                "Priority": 3,
+                "Order": 2
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-09T23:07:54.351Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6c9a599c150e",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T17:45:00",
+            "AdvertisedTrainIdent": "1062",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Dk.kh",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Kb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "Service": [
+              "Servering"
+            ],
+            "TechnicalTrainIdent": "11062",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "3",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Mdn",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-09T23:07:33.915Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6cc046898794",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T17:49:00",
+            "AdvertisedTrainIdent": "3070",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Kb",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Västtrafik",
+            "LocationSignature": "Kb",
+            "MobileWebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Västtågen"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "3070",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "4",
+            "TypeOfTraffic": "Pendeltåg",
+            "WebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "ModifiedTime": "2016-05-09T23:07:56.816Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6cc0481e96d4",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T18:04:00",
+            "AdvertisedTrainIdent": "3122",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Kb",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Västtrafik",
+            "LocationSignature": "Kb",
+            "MobileWebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Västtågen"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "3122",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "4",
+            "TypeOfTraffic": "Pendeltåg",
+            "WebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "ModifiedTime": "2016-05-09T23:07:57.331Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6c9a5cbca951",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T18:13:00",
+            "AdvertisedTrainIdent": "1105",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Kb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "Service": [
+              "Servering"
+            ],
+            "TechnicalTrainIdent": "11105",
+            "ToLocation": [
+              {
+                "LocationName": "Dk.kh",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "2",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Vb",
+                "Priority": 4,
+                "Order": 0
+              },
+              {
+                "LocationName": "Hd",
+                "Priority": 3,
+                "Order": 1
+              },
+              {
+                "LocationName": "M",
+                "Priority": 1,
+                "Order": 2
+              },
+              {
+                "LocationName": "Dk.cph",
+                "Priority": 2,
+                "Order": 3
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-09T23:07:56.785Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6c9a89011336",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T18:15:00",
+            "AdvertisedTrainIdent": "20178",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Kb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "20178",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "3",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Mdn",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-09T23:07:54.117Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6cc046a57b04",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T18:19:00",
+            "AdvertisedTrainIdent": "3072",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Kb",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Västtrafik",
+            "LocationSignature": "Kb",
+            "MobileWebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Västtågen"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "3072",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "4",
+            "TypeOfTraffic": "Pendeltåg",
+            "WebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "ModifiedTime": "2016-05-09T23:08:00.295Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6cc0483271eb",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T18:34:00",
+            "AdvertisedTrainIdent": "3124",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Kb",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Västtrafik",
+            "LocationSignature": "Kb",
+            "MobileWebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Västtågen"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "3124",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "4",
+            "TypeOfTraffic": "Pendeltåg",
+            "WebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "ModifiedTime": "2016-05-09T23:08:01.153Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6c9a890ad99d",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T18:43:00",
+            "AdvertisedTrainIdent": "20179",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Kb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "20179",
+            "ToLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "2",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Åsa",
+                "Priority": 2,
+                "Order": 0
+              },
+              {
+                "LocationName": "Vb",
+                "Priority": 1,
+                "Order": 1
+              },
+              {
+                "LocationName": "Fabp",
+                "Priority": 3,
+                "Order": 2
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-09T23:08:00.919Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6c9a5a04bb53",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T18:45:00",
+            "AdvertisedTrainIdent": "1068",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Dk.kh",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Kb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "Service": [
+              "Servering"
+            ],
+            "TechnicalTrainIdent": "11068",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "3",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Mdn",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-09T23:07:40.015Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6cc046bab609",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T18:49:00",
+            "AdvertisedTrainIdent": "3074",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Kb",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Västtrafik",
+            "LocationSignature": "Kb",
+            "MobileWebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Västtågen"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "3074",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "4",
+            "TypeOfTraffic": "Pendeltåg",
+            "WebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "ModifiedTime": "2016-05-09T23:08:05.006Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6cc0484716c2",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T19:04:00",
+            "AdvertisedTrainIdent": "3126",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Kb",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Västtrafik",
+            "LocationSignature": "Kb",
+            "MobileWebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Västtågen"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "3126",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "4",
+            "TypeOfTraffic": "Pendeltåg",
+            "WebLink": "http://www.vasttrafik.se/#!/trafikstorningar/",
+            "ModifiedTime": "2016-05-09T23:08:05.615Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6c9a5d1714d9",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T19:13:00",
+            "AdvertisedTrainIdent": "1111",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Kb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "Service": [
+              "Servering"
+            ],
+            "TechnicalTrainIdent": "11111",
+            "ToLocation": [
+              {
+                "LocationName": "Dk.kh",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "2",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Vb",
+                "Priority": 4,
+                "Order": 0
+              },
+              {
+                "LocationName": "Hd",
+                "Priority": 3,
+                "Order": 1
+              },
+              {
+                "LocationName": "M",
+                "Priority": 1,
+                "Order": 2
+              },
+              {
+                "LocationName": "Dk.cph",
+                "Priority": 2,
+                "Order": 3
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-09T23:08:05.412Z"
+          },
+          {
+            "ActivityId": "2500adde-03b5-6b00-08d3-6c9a89152975",
+            "ActivityType": "Avgang",
+            "Advertised": true,
+            "AdvertisedTimeAtLocation": "2016-05-10T19:15:00",
+            "AdvertisedTrainIdent": "20180",
+            "Canceled": false,
+            "EstimatedTimeIsPreliminary": false,
+            "FromLocation": [
+              {
+                "LocationName": "Hd",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "InformationOwner": "Öresundståg",
+            "LocationSignature": "Kb",
+            "NewEquipment": 0,
+            "PlannedEstimatedTimeAtLocationIsValid": false,
+            "ProductInformation": [
+              "Öresundståg"
+            ],
+            "ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+            "TechnicalTrainIdent": "20180",
+            "ToLocation": [
+              {
+                "LocationName": "G",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "TrackAtLocation": "3",
+            "TypeOfTraffic": "Tåg",
+            "ViaToLocation": [
+              {
+                "LocationName": "Mdn",
+                "Priority": 1,
+                "Order": 0
+              }
+            ],
+            "WebLink": "http://www.oresundstag.se",
+            "ModifiedTime": "2016-05-09T23:08:00.373Z"
+          }
+        ],
+        "INFO": {
+          "RUNTIME": {
+            "@dbruntime": "00:00:00.0128938",
+            "@streamingruntime": "00:00:00.0125911",
+            "@totalruntime": "00:00:00.0254849"
+          },
+          "LASTMODIFIED": {
+            "@datetime": "2016-05-10T15:00:35.433Z"
+          }
+        }
+      }
+    ]
+  }
+}

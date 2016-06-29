@@ -1,0 +1,20 @@
+<REQUEST>
+	<LOGIN authenticationkey='428bde20f6034b5789f36563049bb9ca'/>
+	<QUERY  runtime='true' lastmodified='true' orderby='AdvertisedTimeAtLocation' objecttype='TrainAnnouncement'>
+		<FILTER>
+			<AND>
+				<EQ name='LocationSignature' value='Kb'/>
+                <EQ name='InformationOwner' value='Öresundståg'/>
+				<EQ name='Advertised' value='true'/>
+				<EQ name='ActivityType' value='Avgang'/>
+
+				<OR>
+					<AND>
+						<GT name='AdvertisedTimeAtLocation' value='$DateAdd(00:00:00)'/>
+						<LT name='AdvertisedTimeAtLocation' value='$DateAdd(01:00:00)'/>
+					</AND>
+				</OR>
+			</AND>
+		</FILTER>
+	</QUERY>
+</REQUEST>

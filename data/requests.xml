@@ -1,0 +1,84 @@
+<!-- #1 -->
+<REQUEST><LOGIN authenticationkey='openapiconsolekey'/><QUERY  lastmodified='true' orderby='StartDateTime' objecttype='TrainMessage'><FILTER><EQ name='AffectedLocation' value='Kb'/></FILTER></QUERY></REQUEST>
+
+<!-- #2 -->
+<REQUEST>
+	<LOGIN authenticationkey='openapiconsolekey'/>
+	<QUERY  runtime='true' lastmodified='true' orderby='AdvertisedTimeAtLocation' objecttype='TrainAnnouncement'>
+		<FILTER>
+			<AND>
+				<EQ name='LocationSignature' value='Kb'/>
+                <EQ name='InformationOwner' value='Öresundståg'/>
+				<EQ name='Advertised' value='true'/>
+				<EQ name='ActivityType' value='Avgang'/>
+
+				<EQ name='AdvertisedTimeAtLocation' value='2016-05-10T17:15:00'/>
+
+				<OR>
+					<AND>
+						<GT name='AdvertisedTimeAtLocation' value='$DateAdd(-00:15:00)'/>
+						<LT name='AdvertisedTimeAtLocation' value='$DateAdd(14:00:00)'/>
+					</AND>
+					<GT name='EstimatedTimeAtLocation' value='$now'/>
+				</OR>
+			</AND>
+		</FILTER>
+	</QUERY>
+</REQUEST>
+
+<!--
+
+	http://api.trafikinfo.trafikverket.se/v1.1/
+	
+"InformationOwner": "Öresundståg",
+"TechnicalTrainIdent": "11099",
+"AdvertisedTimeAtLocation": "2016-05-10T17:15:00",
+"EstimatedTimeAtLocation": "2016-05-10T17:20:00"
+
+
+{
+"ActivityId": "2500adde-03b5-6b00-08d3-6c9a88eac02c",
+"ActivityType": "Avgang",
+"Advertised": true,
+"AdvertisedTimeAtLocation": "2016-05-10T17:15:00",
+"AdvertisedTrainIdent": "20176",
+"Canceled": false,
+"EstimatedTimeIsPreliminary": false,
+"FromLocation": [
+  {
+    "LocationName": "Hd",
+    "Priority": 1,
+    "Order": 0
+  }
+],
+"InformationOwner": "Öresundståg",
+"LocationSignature": "Kb",
+"NewEquipment": 0,
+"PlannedEstimatedTimeAtLocationIsValid": false,
+"ProductInformation": [
+  "Öresundståg"
+],
+"ScheduledDepartureDateTime": "2016-05-10T00:00:00",
+"TechnicalTrainIdent": "20176",
+"ToLocation": [
+  {
+    "LocationName": "G",
+    "Priority": 1,
+    "Order": 0
+  }
+],
+"TrackAtLocation": "3",
+"TypeOfTraffic": "Tåg",
+"ViaToLocation": [
+  {
+    "LocationName": "Mdn",
+    "Priority": 1,
+    "Order": 0
+  }
+],
+"WebLink": "http://www.oresundstag.se",
+"ModifiedTime": "2016-05-10T15:00:35.433Z",
+"EstimatedTimeAtLocation": "2016-05-10T17:20:00"
+}
+
+-->

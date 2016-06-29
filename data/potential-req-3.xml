@@ -1,0 +1,18 @@
+<REQUEST>
+	<LOGIN authenticationkey='707695ca4c704c93a80ebf62cf9af7b5'/>
+	<QUERY  lastmodified='false' orderby='AdvertisedTimeAtLocation' objecttype='TrainAnnouncement'>
+		<INCLUDE>ScheduledDepartureDateTime</INCLUDE>
+		<FILTER>
+			<AND>
+				<EQ name='AdvertisedTrainIdent' value='1062'/>
+				<EQ name='Advertised' value='true'/>
+				<AND>
+					<EQ name='ActivityType' value='Avgang'/>
+					<LT name='AdvertisedTimeAtLocation' value='$DateAdd(14:00:00)'/>
+					<GT name='AdvertisedTimeAtLocation' value='$DateAdd(-4:00:00)'/>
+					<GT name='ScheduledDepartureDateTime' value='$DateAdd(-48:00:00)'/>
+				</AND>
+			</AND>
+		</FILTER>
+	</QUERY>
+</REQUEST>
